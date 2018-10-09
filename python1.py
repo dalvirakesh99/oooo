@@ -1,5 +1,5 @@
 a=int(input("enter a number:"))
-if(a%2==0);
+if(a%2==0):
   print("given number is even")
-else;
+else:
   print("given number is not even")
